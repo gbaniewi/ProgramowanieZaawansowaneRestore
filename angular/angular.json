@@ -35,7 +35,7 @@
             ],
             "tsConfig": "tsconfig.app.json",
             "assets": [
-              "src/icon.ico",
+              "src/assets/icon.png",
               "src/assets",
               "src/loading-gif.gif"
             ],
@@ -95,7 +95,7 @@
             ],
             "tsConfig": "tsconfig.spec.json",
             "assets": [
-              "src/favicon.ico",
+              "src/assets/icon.png",
               "src/assets"
             ],
             "styles": [
